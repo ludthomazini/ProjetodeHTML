@@ -1,0 +1,61 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.tdnomeitem {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+td {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+
+li { 
+    font-family: arial, sans-serif;
+    font-size: 15px;
+    text-align: left;   
+} 
+
+th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+div {
+    font-family: arial, sans-serif;
+    text-align: center;
+    background-color: #d4d1d1;
+    padding: 8px;
+}
+
+/* 
+form {
+    overflow: hidden;
+}
+
+label {
+    float: left;
+    width: 100px;
+    padding-right: 8px;
+}
+ 
+input {
+    float: left;
+    width: calc(100% - 100px);
+}
+ 
+button {
+    float: right;
+    width: calc(100% - 100px);
+} */
